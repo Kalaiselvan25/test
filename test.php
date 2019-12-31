@@ -29,9 +29,9 @@
 
     <h2>Registration Form</h2>
 
-    <form action="registration_form.php" method="POST"> First name:
+    <form action="registration_form.php" method="POST"> name:
 
-        <input type="text" name="firstname"> <br> Last name:
+        <input type="text" name="firstname"> <br> ame:
 
         <input type="text" name="lastname">
 
