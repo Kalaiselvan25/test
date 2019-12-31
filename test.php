@@ -2,6 +2,7 @@
 <head>
 	<title>Registration Form</title>
 	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<h1>test</h1>
 </head>
 <body>
 
@@ -20,4 +21,5 @@
     </form>
 </body>
 </html>
+
 
